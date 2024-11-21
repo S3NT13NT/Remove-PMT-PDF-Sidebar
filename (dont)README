@@ -1,0 +1,15 @@
+# Remove PMT PDF Sidebar
+This is a Tampermonkey userscript designed to automatically remove the stupid PDF sidebar on Physics and Maths Tutor (PMT) PDF viewer pages.
+
+## Features
+- Automatically removes the sidebar for a cleaner interface.
+- Targets pages under the `/pdf-pages/` path of the PMT website.
+
+
+## Requirements:
+- Tampermonkey
+- ViolentMonkey ("If your browser does not allow tampermonkey to be installed as an extension, such as Opera GX")
+
+## Installation
+1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser.
+2. Click [here](https://github.com/yourusername/Remove-PMT-PDF-Sidebar/raw/main/remove-pmt-pdf-sidebar.user.js) to install the script.
