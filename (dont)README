@@ -13,3 +13,6 @@ This is a Tampermonkey userscript designed to automatically remove the stupid PD
 ## Installation
 1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser.
 2. Click [here](https://github.com/yourusername/Remove-PMT-PDF-Sidebar/raw/main/remove-pmt-pdf-sidebar.user.js) to install the script.
+
+## License
+This project is licensed under the MIT License.
